@@ -1,0 +1,2 @@
+/usr/bin/ar qc libTetrisCore.a  CMakeFiles/TetrisCore.dir/Form.cpp.o CMakeFiles/TetrisCore.dir/Framework.cpp.o CMakeFiles/TetrisCore.dir/Game.cpp.o CMakeFiles/TetrisCore.dir/Sprite.cpp.o CMakeFiles/TetrisCore.dir/Timer.cpp.o
+/usr/bin/ranlib libTetrisCore.a

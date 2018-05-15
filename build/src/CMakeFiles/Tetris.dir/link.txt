@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++11 -Wall -g   CMakeFiles/Tetris.dir/main.cpp.o  -o Tetris -rdynamic libTetrisCore.a -Wl,-Bstatic -lSDLmain -Wl,-Bdynamic -lSDL -lpthread -lSDL_ttf 

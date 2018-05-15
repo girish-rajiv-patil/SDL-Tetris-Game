@@ -1,0 +1,11 @@
+/home/vijay/Girish/Games/Tetris-SDL-game-master/build/CMakeFiles/test.dir
+/home/vijay/Girish/Games/Tetris-SDL-game-master/build/CMakeFiles/edit_cache.dir
+/home/vijay/Girish/Games/Tetris-SDL-game-master/build/CMakeFiles/rebuild_cache.dir
+/home/vijay/Girish/Games/Tetris-SDL-game-master/build/src/CMakeFiles/test.dir
+/home/vijay/Girish/Games/Tetris-SDL-game-master/build/src/CMakeFiles/Tetris.dir
+/home/vijay/Girish/Games/Tetris-SDL-game-master/build/src/CMakeFiles/rebuild_cache.dir
+/home/vijay/Girish/Games/Tetris-SDL-game-master/build/src/CMakeFiles/TetrisCore.dir
+/home/vijay/Girish/Games/Tetris-SDL-game-master/build/src/CMakeFiles/edit_cache.dir
+/home/vijay/Girish/Games/Tetris-SDL-game-master/build/libs/CMakeFiles/test.dir
+/home/vijay/Girish/Games/Tetris-SDL-game-master/build/libs/CMakeFiles/edit_cache.dir
+/home/vijay/Girish/Games/Tetris-SDL-game-master/build/libs/CMakeFiles/rebuild_cache.dir
